@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className={darkMode ? 'app dark' : 'app'}>
-      <Header toggleDarkMode={toggleDarkMode} />
+      <Header toggleDarkMode={toggleDarkMode} darkMode={darkMode} />
 
       <main>
         <Routes>

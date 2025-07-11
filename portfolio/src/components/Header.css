@@ -1,6 +1,7 @@
 nav {
     margin: 0;
-    padding: 0;
+    padding: 30px;
+    background-color: rgb(10, 46, 10);
 }
 
 nav ul {
@@ -14,27 +15,39 @@ nav ul {
 
 nav ul li:first-child {
     margin-right: auto;
+
 }
 
 nav ul a {
     text-decoration: none;
-    margin-left: 1rem;
+    margin-left: 2rem;
+    color: white;
+}
+
+nav ul a:hover {
+    font-weight: bold;
 }
 
 nav ul button {
     background: none;
+    color: white;
     border: none;
+    font-family: inherit;
     cursor: pointer;
     padding: 0.5rem 1rem;
     margin: 0;
+    font-size: 1.25em;
 }
 
 nav ul button:hover {
-    background-color: black;
-    color: white;
+    font-weight: bold;
 }
 
 .heading {
     text-align: center;
     padding-top: 80px;
+}
+
+h1 {
+    font-size: 3em;
 }

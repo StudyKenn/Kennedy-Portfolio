@@ -1,9 +1,10 @@
 import React from 'react';
+import './Footer.css';
 
 function Footer() {
     return (
         <footer className="footer">
-            <p>
+            <ul>
                 <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
                     GitHub
                 </a>{' '}
@@ -11,7 +12,7 @@ function Footer() {
                 <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
                     LinkedIn
                 </a>
-            </p>
+            </ul>
         </footer>
     );
 }

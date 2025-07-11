@@ -65,5 +65,28 @@ main {
 }
 
 .contact-form button:hover {
-  background-color: #555;
+  background-color: #2f5c3e;
+}
+
+/*Dark Mode*/
+
+.app.dark nav {
+  background-color: #e0e0e0;
+}
+
+.app.dark {
+  background-color: rgb(10, 46, 10);
+  color: #e0e0e0;
+}
+
+.app.dark a {
+  color: rgb(10, 46, 10);
+}
+
+.app.dark button {
+  color: rgb(10, 46, 10);
+}
+
+.app.dark footer {
+  background-color: #e0e0e0;
 }
