@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kennedy-Portfolio/static/css/main.c56bb589.css",
-    "main.js": "/Kennedy-Portfolio/static/js/main.dc13d5a3.js",
-    "index.html": "/Kennedy-Portfolio/index.html",
-    "main.c56bb589.css.map": "/Kennedy-Portfolio/static/css/main.c56bb589.css.map",
-    "main.dc13d5a3.js.map": "/Kennedy-Portfolio/static/js/main.dc13d5a3.js.map"
+    "main.css": "/Kennedy-Portfolio/portfolio/index.html/static/css/main.c56bb589.css",
+    "main.js": "/Kennedy-Portfolio/portfolio/index.html/static/js/main.dc13d5a3.js",
+    "index.html": "/Kennedy-Portfolio/portfolio/index.html/index.html",
+    "main.c56bb589.css.map": "/Kennedy-Portfolio/portfolio/index.html/static/css/main.c56bb589.css.map",
+    "main.dc13d5a3.js.map": "/Kennedy-Portfolio/portfolio/index.html/static/js/main.dc13d5a3.js.map"
   },
   "entrypoints": [
     "static/css/main.c56bb589.css",
