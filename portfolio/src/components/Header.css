@@ -1,0 +1,40 @@
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+    width: 100%;
+}
+
+nav ul li:first-child {
+    margin-right: auto;
+}
+
+nav ul a {
+    text-decoration: none;
+    margin-left: 1rem;
+}
+
+nav ul button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    margin: 0;
+}
+
+nav ul button:hover {
+    background-color: black;
+    color: white;
+}
+
+.heading {
+    text-align: center;
+    padding-top: 80px;
+}
